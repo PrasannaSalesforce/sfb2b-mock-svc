@@ -48,7 +48,8 @@ app.get('/get-tax-rates', function (req, res) {
         "1234778885": { "taxAmount": 2.8229012971048855, "taxRate": 0.08, "taxName": "GST" },
         "1234778886": { "taxAmount": 2.8229012971048855, "taxRate": 0.08, "taxName": "GST" },
         "1234778887": { "taxAmount": 2.8229012971048855, "taxRate": 0.08, "taxName": "GST" },
-        "1234778888": { "taxAmount": 2.8229012971048855, "taxRate": 0.08, "taxName": "GST" }
+        "1234778888": { "taxAmount": 2.8229012971048855, "taxRate": 0.08, "taxName": "GST" },
+        "ChargeSKU": { "taxAmount": 2.8229012971048855, "taxRate": 0.08, "taxName": "GST" }
     })
 });
 
